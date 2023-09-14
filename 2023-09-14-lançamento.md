@@ -11,18 +11,24 @@ Que conhecimentos estão envolvidas para uma BASE realmente técnica na serigraf
 
 ## Descubra o que funciona na Serigrafia, como e porque.
 
+[row]
+[]
 O nome bonito "Tecnologia" pode parecer uma presunção de minha parte. Entretanto, saber como e porque é exatamente do que trata essa coisa da tecnologia.
 
 A serigrafia é suficientemente popular para que "meio mundo" saiba puxar o rodo. Mas... tem algumas vezes que alguma coisa não sai exatamente como planejado (”quem nunca”…?).
 
 O livro (em dois volumes) tem 470 páginas com uma proposta de fundamentação técnica para quem já "sabe fazer" ou para quem está iniciando.
 
-Não se trata de um “manual”. São abordados conceitos da física, alguns dados químicos, e descrição do uso de materiais e equipamentos serigráficos. As ciências servem para explicar…
+Não se trata de um “manual”. São abordados conceitos da física, alguns dados químicos, e descrição do uso de materiais e equipamentos serigráficos. Afinal, as ciências servem para explicar…
+[/col]
+[col]
 
-![capa-7x10-mini.png]({{site.baseurl}}/{{site.baseurl}}/capa-7x10-mini.png)
+![]({{site.baseurl}}//capa-7x10-mini.png)
 
 > ”Prego tem tecnologia”
 (publicidade de uma indústria de aramifício).
+[/col]
+[/row]
 
 # Tecnologia Serigráfica - o livro
 
