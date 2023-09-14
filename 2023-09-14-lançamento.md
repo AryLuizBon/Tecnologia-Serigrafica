@@ -1,4 +1,4 @@
-## ![capa_cores.png]({{site.baseurl}}/capa_cores.png)A New Post
+## ![capa_cores.png]({{site.baseurl}}//capa_sitemkt.png).
 
 ### Sabe, aquele curso de serigrafia que você fez, super prático, mas que não deixou nada anotado, e você tem que ficar vendo o vídeo novamente, várias vezes?
 
