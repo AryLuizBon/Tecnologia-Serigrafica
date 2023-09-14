@@ -20,6 +20,7 @@ O livro (em dois volumes) tem 470 páginas com uma proposta de fundamentação t
 Não se trata de um “manual”. São abordados conceitos da física, alguns dados químicos, e descrição do uso de materiais e equipamentos serigráficos. As ciências servem para explicar…
 
 ![capa-7x10-mini.png]({{site.baseurl}}/{{site.baseurl}}/capa-7x10-mini.png)
+
 > ”Prego tem tecnologia”
 (publicidade de uma indústria de aramifício).
 
