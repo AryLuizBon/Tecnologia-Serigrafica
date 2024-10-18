@@ -157,6 +157,6 @@ A aplicação acima foi feita usando a impressão híbrida de serigrafia e digit
 
 Diversas aplicações não são viáveis sem usar serigrafia.
 
-## Lançamento em setembro de 2023
+## Lançamento em outubro de 2024
 
 e-mail: AryLuizBon@protonmail.com
